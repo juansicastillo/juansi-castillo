@@ -39,23 +39,23 @@
 
 </br>
 
-<!-- Who am i? -->
-<img src="https://media.tenor.com/36y7ERdf9rsAAAAj/persona-5.gif" width=390 align="left">
+<!-- Who am i? - Versión centrada y equilibrada -->
 <div align="center">
+  <img src="https://media.tenor.com/36y7ERdf9rsAAAAj/persona-5.gif" width="390" style="display: block; margin: 0 auto 20px auto; border-radius: 10px;">
+  
+  <div align="center">
+    <h2>Who Am I?</h2>
+  </div>
 
-**Who Am I?**
-</div>
+  <div align="justify" style="max-width: 800px; margin: 0 auto;">
+    Soy Pentester y especialista en Ciberseguridad, con una sólida base en desarrollo de software y un enfoque práctico en la identificación y explotación controlada de vulnerabilidades para fortalecer la seguridad de sistemas y aplicaciones. Actualmente trabajo de manera independiente mientras continúo ampliando mis conocimientos y busco nuevas oportunidades dentro del sector tecnológico.
 
-<div align="justify">
+    Mi experiencia se centra en pruebas de penetración, análisis de vulnerabilidades y evaluación de seguridad en entornos web y redes. Me enfoco en comprender cómo piensa un atacante para anticipar riesgos y proponer soluciones efectivas que protejan la infraestructura y la información.
 
-Soy Pentester y especialista en Ciberseguridad, con una sólida base en desarrollo de software y un enfoque práctico en la identificación y explotación controlada de vulnerabilidades para fortalecer la seguridad de sistemas y aplicaciones. Actualmente trabajo de manera independiente mientras continúo ampliando mis conocimientos y busco nuevas oportunidades dentro del sector tecnológico.
+    Además, programo en Python, lenguaje que utilizo tanto para el desarrollo de herramientas personalizadas de seguridad como para la automatización de tareas, análisis de datos y creación de scripts orientados a pruebas de intrusión. Esta combinación entre programación y ciberseguridad me permite no solo detectar fallos, sino también diseñar soluciones técnicas eficientes.
 
-Mi experiencia se centra en pruebas de penetración, análisis de vulnerabilidades y evaluación de seguridad en entornos web y redes. Me enfoco en comprender cómo piensa un atacante para anticipar riesgos y proponer soluciones efectivas que protejan la infraestructura y la información.
-
-Además, programo en Python, lenguaje que utilizo tanto para el desarrollo de herramientas personalizadas de seguridad como para la automatización de tareas, análisis de datos y creación de scripts orientados a pruebas de intrusión. Esta combinación entre programación y ciberseguridad me permite no solo detectar fallos, sino también diseñar soluciones técnicas eficientes.
-
-Mi objetivo profesional es seguir creciendo en el área de la seguridad ofensiva, perfeccionando mis habilidades técnicas y contribuyendo a la creación de entornos digitales más seguros, confiables y resilientes.
-
+    Mi objetivo profesional es seguir creciendo en el área de la seguridad ofensiva, perfeccionando mis habilidades técnicas y contribuyendo a la creación de entornos digitales más seguros, confiables y resilientes.
+  </div>
 </div>
 
 </br>
