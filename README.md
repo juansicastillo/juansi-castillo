@@ -45,11 +45,13 @@
 
 <div align="justify">
 
-I am a graduated **Software Developer** with a degree in `Systems Analysis and Development`, currently working as a **freelancer** while actively seeking an opportunity in the **technology field**. My professional journey is driven by **continuous learning**, **practical experience**, and a strong commitment to delivering **complete and functional systems** for real-world needs.
+Soy Pentester y especialista en Ciberseguridad, con una sólida base en desarrollo de software y un enfoque práctico en la identificación y explotación controlada de vulnerabilidades para fortalecer la seguridad de sistemas y aplicaciones. Actualmente trabajo de manera independiente mientras continúo ampliando mis conocimientos y busco nuevas oportunidades dentro del sector tecnológico.
 
-Over time, I have developed **solid experience** across the **web development ecosystem**, with a strong passion for `Front-End Development`, where **logic meets creativity and visual design**. Alongside web technologies, I have expanded my skills into **mobile development**, focusing on building modern applications using `Android Studio` and `React Native`.
+Mi experiencia se centra en pruebas de penetración, análisis de vulnerabilidades y evaluación de seguridad en entornos web y redes. Me enfoco en comprender cómo piensa un atacante para anticipar riesgos y proponer soluciones efectivas que protejan la infraestructura y la información.
 
-At the moment, I am working as a **freelancer**, developing **complete systems** for companies in my city, from **planning and interface design** to **implementation and delivery**. This hands-on experience has strengthened my **problem-solving skills**, **technical versatility**, and ability to understand **business needs**, while constantly pushing me to grow as a **developer and professional**.
+Además, programo en Python, lenguaje que utilizo tanto para el desarrollo de herramientas personalizadas de seguridad como para la automatización de tareas, análisis de datos y creación de scripts orientados a pruebas de intrusión. Esta combinación entre programación y ciberseguridad me permite no solo detectar fallos, sino también diseñar soluciones técnicas eficientes.
+
+Mi objetivo profesional es seguir creciendo en el área de la seguridad ofensiva, perfeccionando mis habilidades técnicas y contribuyendo a la creación de entornos digitales más seguros, confiables y resilientes.
 
 </div>
 
@@ -134,5 +136,4 @@ At the moment, I am working as a **freelancer**, developing **complete systems**
 
 <!--
 <img src="https://steamcdn-a.akamaihd.net/steam/apps/1382330/extras/2-citynightmare.gif?t=1608034435">
-
 -->
