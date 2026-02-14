@@ -45,13 +45,11 @@
 
 <div align="justify">
 
-I am an **Intermediate Pentester and Cybersecurity Enthusiast**, continuously developing my skills in offensive security and vulnerability analysis. Currently, I am not working, but I dedicate my time to **intensive practice**, **hands-on labs**, and **constant learning** to strengthen my technical foundation and move toward a professional career in cybersecurity.
+I am a graduated **Software Developer** with a degree in `Systems Analysis and Development`, currently working as a **freelancer** while actively seeking an opportunity in the **technology field**. My professional journey is driven by **continuous learning**, **practical experience**, and a strong commitment to delivering **complete and functional systems** for real-world needs.
 
-My main focus is on **penetration testing**, **web vulnerability analysis**, and understanding attacker methodologies to improve system security. I am passionate about identifying weaknesses, analyzing exploitation techniques, and learning how to properly mitigate security risks in real-world environments.
+Over time, I have developed **solid experience** across the **web development ecosystem**, with a strong passion for `Front-End Development`, where **logic meets creativity and visual design**. Alongside web technologies, I have expanded my skills into **mobile development**, focusing on building modern applications using `Android Studio` and `React Native`.
 
-In addition, I program in `Python`, which I use to create **custom scripts**, automate tasks, and develop small security tools to enhance my workflow. Combining programming with cybersecurity allows me to approach problems with a structured and technical mindset.
-
-My goal is to keep improving every day, gain real-world experience, and become a highly skilled **Cybersecurity Professional**, capable of protecting systems and building secure digital environments.
+At the moment, I am working as a **freelancer**, developing **complete systems** for companies in my city, from **planning and interface design** to **implementation and delivery**. This hands-on experience has strengthened my **problem-solving skills**, **technical versatility**, and ability to understand **business needs**, while constantly pushing me to grow as a **developer and professional**.
 
 </div>
 
@@ -88,6 +86,7 @@ My goal is to keep improving every day, gain real-world experience, and become a
 </div>
 </br>
 
+
 <img src="./assets/icons/knife.png" width=106px align="right">
 
 > [!Caution]
@@ -105,7 +104,8 @@ My goal is to keep improving every day, gain real-world experience, and become a
 </br>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=glauedson&custom_title=My%20Contributions&hide_border=false&theme=high-contrast&border_color=FF1001&bg_color=transparent&radius=16&area_color=FF1001&area=true&point=ffffff&line=FF1001&days=10&text_color=ffffff&title_color=ffffff&include_all_commits=true&count_private=true)](https://github.com/caiquegomesdev/github-readme-activity-graph)
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=glauedson&custom_title=My%20Contributions&hide_border=false&theme=high-contrast&border_color=FF1001&bg_color=transparent&radius=16&area_color=FF1001&area=true&point=ffffff&line=FF1001&days=10&text_color=ffffff&title_color=ffffff&include_all_commits=true&count_private=true)](https://github.com/caiquegomesdev/github-readme-activity-graph)
+
 
 <table align="center">
   <tr>
@@ -114,9 +114,10 @@ My goal is to keep improving every day, gain real-world experience, and become a
       <img src="./assets/images/Stack.svg">
       </br>
       </br>
-      <img src="https://skillicons.dev/icons?i=python,linux,bash,git,github" /><br>
-      <img src="https://skillicons.dev/icons?i=html,css,js" /><br>
-      <img src="https://skillicons.dev/icons?i=mysql,postgres,postman" /><br>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,kotlin,cpp" /><br>
+      <img src="https://skillicons.dev/icons?i=react,electron,nodejs,express,tailwind,bootstrap" /><br>
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,vite,spring,postman,git" /><br>
+      <img src="https://skillicons.dev/icons?i=supabase,github,figma,vercel,androidstudio,arduino" /><br>
     </td>
     <!---->
     <td valign="top" width="55%">
@@ -127,6 +128,11 @@ My goal is to keep improving every day, gain real-world experience, and become a
   </tr>
 </table>
 
+
+
+
+
 <!--
 <img src="https://steamcdn-a.akamaihd.net/steam/apps/1382330/extras/2-citynightmare.gif?t=1608034435">
+
 -->
