@@ -8,29 +8,29 @@
 -->
 
 <!-- Banner  -->
-<a href="https://github.com/Glauedson">
+<a href="https://github.com/juansicastillo">
   <img src="https://i.pinimg.com/1200x/25/65/e6/2565e66c455553023b025637fd11e1a5.jpg" alt="Banner" style="width:100%; height:auto"/>
 </a>
 
 <div align="center">
 
-  <a href="https://api.github-star-counter.workers.dev/user/Glauedson">
+  <a href="https://api.github-star-counter.workers.dev/user/juansicastillo">
     <img width="120px" 
         alt="Stars" 
         title="Stars Profile" 
-        src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=000000&labelColor=FF1001&logoColor=ffffff&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Glauedson" /> 
+        src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=000000&labelColor=FF1001&logoColor=ffffff&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/juansicastillo" /> 
   </a>
-  <a href="https://api.github-star-counter.workers.dev/user/Glauedson">
+  <a href="https://api.github-star-counter.workers.dev/user/juansicastillo">
     <img width="111px" 
         alt="forks" 
         title="Forks Repository" 
-        src="https://custom-icon-badges.demolab.com/github/forks/Glauedson/Glauedson?color=000000&logo=fork&style=for-the-badge&logoColor=white&labelColor=FF1001" /> 
+        src="https://custom-icon-badges.demolab.com/github/forks/juansicastillo/juansicastillo?color=000000&logo=fork&style=for-the-badge&logoColor=white&labelColor=FF1001" /> 
   </a>
-  <a href="[https://github.com/juansicastillo]?tab=followers">
+  <a href="https://github.com/juansicastillo?tab=followers">
     <img width="150px" 
         alt="Followers" 
         title="Github Followers" 
-        src="https://custom-icon-badges.herokuapp.com/github/followers/Glauedson?color=000000&labelColor=FF1001&style=for-the-badge&logo=person-add&label=Followers&logoColor=ffffff" />
+        src="https://custom-icon-badges.herokuapp.com/github/followers/juansicastillo?color=000000&labelColor=FF1001&style=for-the-badge&logo=person-add&label=Followers&logoColor=ffffff" />
   </a>
 </div>
 
@@ -78,7 +78,7 @@ Mi objetivo profesional es seguir creciendo en el área de la seguridad ofensiva
           title="My Linkedin"/>
   </a>
   <!-- GMail  -->
-  <a href="https://mail.google.com/mail/?view=cm&to=glauedson.dev@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&to=juansicastillo7@gmail.com" target="_blank">
     <img width="97px" 
           src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" 
           alt="E-mail"
@@ -106,7 +106,7 @@ Mi objetivo profesional es seguir creciendo en el área de la seguridad ofensiva
 </br>
 </div>
 
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=glauedson&custom_title=My%20Contributions&hide_border=false&theme=high-contrast&border_color=FF1001&bg_color=transparent&radius=16&area_color=FF1001&area=true&point=ffffff&line=FF1001&days=10&text_color=ffffff&title_color=ffffff&include_all_commits=true&count_private=true)](https://github.com/caiquegomesdev/github-readme-activity-graph)
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=juansicastillo&custom_title=My%20Contributions&hide_border=false&theme=high-contrast&border_color=FF1001&bg_color=transparent&radius=16&area_color=FF1001&area=true&point=ffffff&line=FF1001&days=10&text_color=ffffff&title_color=ffffff&include_all_commits=true&count_private=true)](https://github.com/caiquegomesdev/github-readme-activity-graph)
 
 
 <table align="center">
@@ -123,9 +123,9 @@ Mi objetivo profesional es seguir creciendo en el área de la seguridad ofensiva
     </td>
     <!---->
     <td valign="top" width="55%">
-      <img src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/pin/?username=glauedson&repo=lembra-plus-note-app&theme=dark&bg_color=FF1001&title_color=e0fbfc&text_color=000000&hide_border=true&description_lines_count=7&icon_color=ffffff&cache_seconds=86400" />
+      <img src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/pin/?username=juansicastillo&repo=lembra-plus-note-app&theme=dark&bg_color=FF1001&title_color=e0fbfc&text_color=000000&hide_border=true&description_lines_count=7&icon_color=ffffff&cache_seconds=86400" />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Glauedson&theme=dark&background=0D0D0D&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&card_width=401&sideNums=FFFFFF&currStreakLabel=FF0000&sideLabels=FF0000&dates=FFFFFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=juansicastillo&theme=dark&background=0D0D0D&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&card_width=401&sideNums=FFFFFF&currStreakLabel=FF0000&sideLabels=FF0000&dates=FFFFFF)](https://git.io/streak-stats)
     </td>
   </tr>
 </table>
