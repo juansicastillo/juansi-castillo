@@ -14,7 +14,7 @@
 
 <div align="center">
 
-  <!-- Stars - CORREGIDO usando shields.io -->
+  <!-- Stars -->
   <a href="https://github.com/juansicastillo" target="_blank">
     <img width="120px" 
         alt="Stars" 
@@ -22,19 +22,19 @@
         src="https://img.shields.io/github/stars/juansicastillo?style=for-the-badge&logo=star&color=000000&labelColor=FF1001&logoColor=ffffff&label=Stars" /> 
   </a>
   
-  <!-- Botón Compartir Perfil en ROJO -->
+  <!-- Share Profile Button -->
   <a href="https://github.com/juansicastillo" target="_blank">
     <img width="130px" 
-        alt="Compartir Perfil" 
-        title="Compartir mi perfil de GitHub" 
-        src="https://img.shields.io/badge/Compartir_Perfil-FF0000?style=for-the-badge&logo=share&logoColor=white&labelColor=FF0000&color=FF0000" /> 
+        alt="Share Profile" 
+        title="Share my GitHub profile" 
+        src="https://img.shields.io/badge/Share_Profile-FF0000?style=for-the-badge&logo=share&logoColor=white&labelColor=FF0000&color=FF0000" /> 
   </a>
 
-  <!-- Followers - CORREGIDO usando shields.io -->
+  <!-- Followers -->
   <a href="https://github.com/juansicastillo?tab=followers" target="_blank">
     <img width="150px" 
         alt="Followers" 
-        title="Github Followers" 
+        title="GitHub Followers" 
         src="https://img.shields.io/github/followers/juansicastillo?style=for-the-badge&logo=person-add&color=000000&labelColor=FF1001&logoColor=ffffff&label=Followers" />
   </a>
 </div>
@@ -50,13 +50,13 @@
 
 <div align="justify">
 
-Soy Pentester y especialista en Ciberseguridad, con una sólida base en desarrollo de software y un enfoque práctico en la identificación y explotación controlada de vulnerabilidades para fortalecer la seguridad de sistemas y aplicaciones. Actualmente trabajo de manera independiente mientras continúo ampliando mis conocimientos y busco nuevas oportunidades dentro del sector tecnológico.
+I am a **Penetration Tester** and **Cybersecurity Specialist** with a solid foundation in software development and a practical approach to identifying and responsibly exploiting vulnerabilities to strengthen the security of systems and applications. I currently work independently while continuously expanding my knowledge and seeking new opportunities in the technology sector.
 
-Mi experiencia se centra en pruebas de penetración, análisis de vulnerabilidades y evaluación de seguridad en entornos web y redes. Me enfoco en comprender cómo piensa un atacante para anticipar riesgos y proponer soluciones efectivas que protejan la infraestructura y la información.
+My experience focuses on penetration testing, vulnerability analysis, and security assessments in web environments and networks. I focus on understanding how an attacker thinks to anticipate risks and propose effective solutions that protect infrastructure and information.
 
-Además, programo en Python, lenguaje que utilizo tanto para el desarrollo de herramientas personalizadas de seguridad como para la automatización de tareas, análisis de datos y creación de scripts orientados a pruebas de intrusión. Esta combinación entre programación y ciberseguridad me permite no solo detectar fallos, sino también diseñar soluciones técnicas eficientes.
+Additionally, I program in Python, a language I use both for developing custom security tools and for task automation, data analysis, and creating scripts oriented to intrusion testing. This combination of programming and cybersecurity allows me not only to detect flaws but also to design efficient technical solutions.
 
-Mi objetivo profesional es seguir creciendo en el área de la seguridad ofensiva, perfeccionando mis habilidades técnicas y contribuyendo a la creación de entornos digitales más seguros, confiables y resilientes.
+My professional goal is to continue growing in the offensive security area, honing my technical skills and contributing to the creation of safer, more reliable, and resilient digital environments.
 
 </div>
 
