@@ -7,9 +7,9 @@
     GitHub: https://github.com/Glauedson
 -->
 
-<!-- Banner con GIF animado -->
+<!-- Banner  -->
 <a href="https://github.com/juansicastillo">
-  <img src="https://i.pinimg.com/originals/24/bf/9e/24bf9ea5632d759d4793dabbc51e89c6.gif" alt="Banner Animado" style="width:100%; height:auto"/>
+  <img src="https://i.pinimg.com/1200x/25/65/e6/2565e66c455553023b025637fd11e1a5.jpg" alt="Banner" style="width:100%; height:auto"/>
 </a>
 
 <div align="center">
@@ -39,23 +39,23 @@
 
 </br>
 
-<!-- Who am i? - Versión centrada y equilibrada -->
+<!-- Who am i? -->
+<img src="https://media.tenor.com/36y7ERdf9rsAAAAj/persona-5.gif" width=390 align="left">
 <div align="center">
-  <img src="https://media.tenor.com/36y7ERdf9rsAAAAj/persona-5.gif" width="390" style="display: block; margin: 0 auto 20px auto; border-radius: 10px;">
-  
-  <div align="center">
-    <h2>Who Am I?</h2>
-  </div>
 
-  <div align="justify" style="max-width: 800px; margin: 0 auto;">
-    Soy Pentester y especialista en Ciberseguridad, con una sólida base en desarrollo de software y un enfoque práctico en la identificación y explotación controlada de vulnerabilidades para fortalecer la seguridad de sistemas y aplicaciones. Actualmente trabajo de manera independiente mientras continúo ampliando mis conocimientos y busco nuevas oportunidades dentro del sector tecnológico.
+**Who Am I?**
+</div>
 
-    Mi experiencia se centra en pruebas de penetración, análisis de vulnerabilidades y evaluación de seguridad en entornos web y redes. Me enfoco en comprender cómo piensa un atacante para anticipar riesgos y proponer soluciones efectivas que protejan la infraestructura y la información.
+<div align="justify">
 
-    Además, programo en Python, lenguaje que utilizo tanto para el desarrollo de herramientas personalizadas de seguridad como para la automatización de tareas, análisis de datos y creación de scripts orientados a pruebas de intrusión. Esta combinación entre programación y ciberseguridad me permite no solo detectar fallos, sino también diseñar soluciones técnicas eficientes.
+Soy Pentester y especialista en Ciberseguridad, con una sólida base en desarrollo de software y un enfoque práctico en la identificación y explotación controlada de vulnerabilidades para fortalecer la seguridad de sistemas y aplicaciones. Actualmente trabajo de manera independiente mientras continúo ampliando mis conocimientos y busco nuevas oportunidades dentro del sector tecnológico.
 
-    Mi objetivo profesional es seguir creciendo en el área de la seguridad ofensiva, perfeccionando mis habilidades técnicas y contribuyendo a la creación de entornos digitales más seguros, confiables y resilientes.
-  </div>
+Mi experiencia se centra en pruebas de penetración, análisis de vulnerabilidades y evaluación de seguridad en entornos web y redes. Me enfoco en comprender cómo piensa un atacante para anticipar riesgos y proponer soluciones efectivas que protejan la infraestructura y la información.
+
+Además, programo en Python, lenguaje que utilizo tanto para el desarrollo de herramientas personalizadas de seguridad como para la automatización de tareas, análisis de datos y creación de scripts orientados a pruebas de intrusión. Esta combinación entre programación y ciberseguridad me permite no solo detectar fallos, sino también diseñar soluciones técnicas eficientes.
+
+Mi objetivo profesional es seguir creciendo en el área de la seguridad ofensiva, perfeccionando mis habilidades técnicas y contribuyendo a la creación de entornos digitales más seguros, confiables y resilientes.
+
 </div>
 
 </br>
