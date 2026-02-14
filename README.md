@@ -7,9 +7,9 @@
     GitHub: https://github.com/Glauedson
 -->
 
-<!-- Banner  -->
+<!-- Banner con GIF animado -->
 <a href="https://github.com/juansicastillo">
-  <img src="https://i.pinimg.com/1200x/25/65/e6/2565e66c455553023b025637fd11e1a5.jpg" alt="Banner" style="width:100%; height:auto"/>
+  <img src="https://i.pinimg.com/originals/24/bf/9e/24bf9ea5632d759d4793dabbc51e89c6.gif" alt="Banner Animado" style="width:100%; height:auto"/>
 </a>
 
 <div align="center">
@@ -21,12 +21,12 @@
         src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=000000&labelColor=FF1001&logoColor=ffffff&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/juansicastillo" /> 
   </a>
   
-  <!-- Nuevo botón: Compartir Perfil -->
+  <!-- Botón Compartir Perfil en ROJO -->
   <a href="https://github.com/juansicastillo" target="_blank">
     <img width="130px" 
         alt="Compartir Perfil" 
         title="Compartir mi perfil de GitHub" 
-        src="https://img.shields.io/badge/Compartir_Perfil-FF0000?style=for-the-badge&logo=share&logoColor=white&color=000000&labelColor=FF1001" /> 
+        src="https://img.shields.io/badge/Compartir_Perfil-FF0000?style=for-the-badge&logo=share&logoColor=white&labelColor=FF0000&color=FF0000" /> 
   </a>
 
   <a href="https://github.com/juansicastillo?tab=followers">
@@ -66,7 +66,7 @@ Mi objetivo profesional es seguir creciendo en el área de la seguridad ofensiva
   <strong>You can Click here</strong>
   </br>
 
-  <!-- Instagram (actualizado) -->
+  <!-- Instagram -->
   <a href="https://www.instagram.com/iam.juansi/" target="_blank">
     <img width="130px" 
           src="https://img.shields.io/badge/Instagram-FF0000?style=for-the-badge&logo=instagram&logoColor=white" 
@@ -125,10 +125,6 @@ Mi objetivo profesional es seguir creciendo en el área de la seguridad ofensiva
     </td>
   </tr>
 </table>
-
-
-
-
 
 <!--
 <img src="https://steamcdn-a.akamaihd.net/steam/apps/1382330/extras/2-citynightmare.gif?t=1608034435">
