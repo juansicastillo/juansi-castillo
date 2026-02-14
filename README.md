@@ -26,7 +26,7 @@
         title="Forks Repository" 
         src="https://custom-icon-badges.demolab.com/github/forks/Glauedson/Glauedson?color=000000&logo=fork&style=for-the-badge&logoColor=white&labelColor=FF1001" /> 
   </a>
-  <a href="https://github.com/Glauedson?tab=followers">
+  <a href="[https://github.com/juansicastillo]?tab=followers">
     <img width="150px" 
         alt="Followers" 
         title="Github Followers" 
