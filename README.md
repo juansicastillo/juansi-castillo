@@ -5,12 +5,12 @@
     <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="juansi" />
   </a>
   
-  <a href="https://instagram.com/juansi" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="juansi" />
+  <a href="https://www.instagram.com/iam.juansi/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="iam.juansi" />
   </a>
 
-  <a href="mailto:unsimpledev@gmail.com" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="juansi" />
+  <a href="mailto:juansicastillo7@gmail.com" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="juansicastillo7@gmail.com" />
   </a>
 </p>
 
