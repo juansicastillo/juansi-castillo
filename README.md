@@ -60,7 +60,7 @@ Mi objetivo profesional es seguir creciendo en el área de la seguridad ofensiva
   <strong>You can Click here</strong>
   </br>
 
-  <!-- Instagram (reemplaza a Pinterest y LinkedIn) -->
+  <!-- Instagram -->
   <a href="https://www.instagram.com/juansicastillo/" target="_blank">
     <img width="120px" 
           src="https://img.shields.io/badge/Instagram-FF0000?style=for-the-badge&logo=instagram&logoColor=white" 
@@ -97,8 +97,7 @@ Mi objetivo profesional es seguir creciendo en el área de la seguridad ofensiva
 </br>
 </div>
 
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=juansicastillo&custom_title=My%20Contributions&hide_border=false&theme=high-contrast&border_color=FF1001&bg_color=transparent&radius=16&area_color=FF1001&area=true&point=ffffff&line=FF1001&days=10&text_color=ffffff&title_color=ffffff&include_all_commits=true&count_private=true)](https://github.com/caiquegomesdev/github-readme-activity-graph)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=juansicastillo&custom_title=My%20Contributions&hide_border=false&theme=high-contrast&border_color=FF1001&bg_color=transparent&radius=16&area_color=FF1001&area=true&point=ffffff&line=FF1001&days=10&text_color=ffffff&title_color=ffffff&include_all_commits=true&count_private=true)](https://github.com/caiquegomesdev/github-readme-activity-graph)
 
 <table align="center">
   <tr>
@@ -120,3 +119,7 @@ Mi objetivo profesional es seguir creciendo en el área de la seguridad ofensiva
     </td>
   </tr>
 </table>
+
+<!--
+<img src="https://steamcdn-a.akamaihd.net/steam/apps/1382330/extras/2-citynightmare.gif?t=1608034435">
+-->
