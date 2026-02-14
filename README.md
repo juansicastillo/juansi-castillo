@@ -14,15 +14,18 @@
 
 <div align="center">
 
-  <!-- Stars - Funcional -->
-  <a href="https://github.com/juansicastillo">
+  <a href="https://api.github-star-counter.workers.dev/user/juansicastillo">
     <img width="120px" 
         alt="Stars" 
         title="Stars Profile" 
-        src="https://img.shields.io/github/stars/juansicastillo?style=for-the-badge&logo=star&color=000000&labelColor=FF1001&logoColor=ffffff&label=Stars" /> 
+        src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=000000&labelColor=FF1001&logoColor=ffffff&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/juansicastillo" /> 
   </a>
-  
-  <!-- Followers - Funcional -->
+  <a href="https://api.github-star-counter.workers.dev/user/juansicastillo">
+    <img width="111px" 
+        alt="forks" 
+        title="Forks Repository" 
+        src="https://custom-icon-badges.demolab.com/github/forks/juansicastillo/juansicastillo?color=000000&logo=fork&style=for-the-badge&logoColor=white&labelColor=FF1001" /> 
+  </a>
   <a href="https://github.com/juansicastillo?tab=followers">
     <img width="150px" 
         alt="Followers" 
@@ -62,12 +65,11 @@ Mi objetivo profesional es seguir creciendo en el área de la seguridad ofensiva
 
   <!-- Instagram -->
   <a href="https://www.instagram.com/juansicastillo/" target="_blank">
-    <img width="120px" 
+    <img width="130px" 
           src="https://img.shields.io/badge/Instagram-FF0000?style=for-the-badge&logo=instagram&logoColor=white" 
           alt="Instagram"
           title="My Instagram"/>
   </a>
-  
   <!-- GMail  -->
   <a href="https://mail.google.com/mail/?view=cm&to=juansicastillo7@gmail.com" target="_blank">
     <img width="97px" 
@@ -97,7 +99,8 @@ Mi objetivo profesional es seguir creciendo en el área de la seguridad ofensiva
 </br>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=juansicastillo&custom_title=My%20Contributions&hide_border=false&theme=high-contrast&border_color=FF1001&bg_color=transparent&radius=16&area_color=FF1001&area=true&point=ffffff&line=FF1001&days=10&text_color=ffffff&title_color=ffffff&include_all_commits=true&count_private=true)](https://github.com/caiquegomesdev/github-readme-activity-graph)
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=juansicastillo&custom_title=My%20Contributions&hide_border=false&theme=high-contrast&border_color=FF1001&bg_color=transparent&radius=16&area_color=FF1001&area=true&point=ffffff&line=FF1001&days=10&text_color=ffffff&title_color=ffffff&include_all_commits=true&count_private=true)](https://github.com/caiquegomesdev/github-readme-activity-graph)
+
 
 <table align="center">
   <tr>
@@ -120,6 +123,11 @@ Mi objetivo profesional es seguir creciendo en el área de la seguridad ofensiva
   </tr>
 </table>
 
+
+
+
+
 <!--
 <img src="https://steamcdn-a.akamaihd.net/steam/apps/1382330/extras/2-citynightmare.gif?t=1608034435">
+
 -->
