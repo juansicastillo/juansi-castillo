@@ -1,11 +1,8 @@
-<h1 align="center">Hola 👋 soy Juansi Díaz / juansiDev 🐍✨ </h1> 
+<h1 align="center">Hola 👋 soy Juansi Díaz / juansiDev 🐍🔐 </h1> 
 
 <p align="left">
   <a href="https://github.com/juansi" target="blank">
     <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="juansi" />
-  </a>
-  <a href="https://linkedin.com/in/juansi" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="juansi"/>
   </a>
   <a href="mailto:juansi@email.com" target="blank">
     <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="juansi" />
@@ -14,17 +11,17 @@
 
 <br>
 
-<h2>Sobre mí 🐍</h2>
+<h2>Sobre mí 😃</h2>
 
 <p align="left">
 
-💻 Programador especializado en **Python**
+🐍 Programador especializado en **Python**
 
 🔐 Enfocado en **Ciberseguridad y Pentesting**
 
-🛡️ Apasionado por la seguridad ofensiva, análisis de vulnerabilidades y hacking ético
+🛡️ Apasionado por el hacking ético, análisis de vulnerabilidades y seguridad ofensiva
 
-⚡ Automatización de tareas, scripting y desarrollo de herramientas de seguridad
+⚙️ Desarrollo de scripts, automatización y herramientas de seguridad
 
 🌎 República Dominicana
 
@@ -49,7 +46,7 @@
 <ul>
   <li>🐍 Desarrollo con Python</li>
   <li>🔎 Análisis de vulnerabilidades</li>
-  <li>🛠️ Pentesting Web</li>
+  <li>🌐 Pentesting Web</li>
   <li>⚙️ Automatización y scripting</li>
   <li>🧠 Seguridad ofensiva</li>
 </ul>
@@ -79,6 +76,13 @@
 </p>
 
 <br><br><br><br><br>
+
+<div align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=juansi&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+  </a>
+</div>
+
 
 <div align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
