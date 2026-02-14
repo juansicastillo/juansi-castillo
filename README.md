@@ -1,53 +1,74 @@
-<h1 align="center">Hola 👋 soy Juansi Díaz / juansiDev 🐍🔐 </h1> 
+<h1 align="center">
+  👨‍💻 Juansi Díaz | 🐍 Python Developer | 🔐 Cybersecurity
+</h1>
 
-<p align="left">
-  <a href="https://github.com/juansi" target="blank">
-    <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="juansi" />
-  </a>
-  
-  <a href="https://www.instagram.com/iam.juansi/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="iam.juansi" />
-  </a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=500&lines=Ingeniero+en+Informática;Especialista+en+Ciberseguridad;Pentesting+%7C+Python+%7C+Automatización;Seguridad+Ofensiva+%F0%9F%94%90" />
+</p>
 
-  <a href="mailto:juansicastillo7@gmail.com" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="juansicastillo7@gmail.com" />
+---
+
+## 🌐 Conecta conmigo
+
+<p align="center">
+  <a href="https://github.com/juansi">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/iam.juansi/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:juansicastillo7@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
-<br>
+---
 
-<h2>Sobre mí 😃</h2>
+## 🧠 Sobre mí
 
-<p align="left">
+🎓 Ingeniero en Informática enfocado en Ciberseguridad  
+🔐 Especializado en Pentesting y Seguridad Ofensiva  
+🐍 Desarrollo de herramientas y automatización con Python  
+💻 +3 años de experiencia en Seguridad Informática  
+🛡️ Análisis de vulnerabilidades y pruebas de penetración  
 
-🎓 INGENIERO EN INFORMÁTICA enfocado en Ciberseguridad
+> “La seguridad no es un producto, es un proceso.”
 
-🔐 Especializado en Pentesting y desarrollo de herramientas con Python
+---
 
-💻 Más de 3 años de experiencia en seguridad informática
+## 🛠️ Stack Tecnológico
 
-🛡️ Experiencia en análisis de vulnerabilidades, automatización de procesos y seguridad ofensiva
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,kali,vscode,github&perline=4" />
 </p>
 
-<br>
+---
 
-<h2>Tecnologías conocidas 👨🏻‍💻</h2>
+## 🔥 Especialidades
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,kali,vscode,github&perline=4" />
-  </a>
-</p>
+- 🐍 Scripting avanzado en Python  
+- 🌐 Pentesting Web  
+- 🛡️ Seguridad Ofensiva  
+- 🔎 Análisis de vulnerabilidades  
+- ⚙️ Automatización de procesos  
+- 🧪 Laboratorios y entornos controlados  
 
-<br>
+---
 
-<h2>Áreas de enfoque 🔥</h2>
+## 🚀 Actualmente
 
-<ul>
-  <li>🐍 Desarrollo con Python</li>
-  <li>🔎 Análisis de vulnerabilidades</li>
-  <li>🌐 Pentesting Web</li>
-  <li>⚙️ Automatización y scripting</li>
-  <li>🧠 Seguridad ofensiva</li>
-</ul>
+- 📚 Perfeccionando habilidades en Ethical Hacking  
+- 🧠 Estudiando nuevas técnicas de explotación  
+- 🔬 Creando herramientas propias de seguridad  
+- 🌍 Construyendo marca personal en ciberseguridad  
+
+---
+
+## 🧩 Filosofía
+
+```bash
+while(alive){
+    learn();
+    practice();
+    secure();
+}
