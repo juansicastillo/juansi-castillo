@@ -14,7 +14,7 @@
 
 <div align="center">
 
-  <!-- Stars - Ahora usando shields.io -->
+  <!-- Stars - Funcional -->
   <a href="https://github.com/juansicastillo">
     <img width="120px" 
         alt="Stars" 
@@ -22,15 +22,7 @@
         src="https://img.shields.io/github/stars/juansicastillo?style=for-the-badge&logo=star&color=000000&labelColor=FF1001&logoColor=ffffff&label=Stars" /> 
   </a>
   
-  <!-- Forks - Ahora usando shields.io -->
-  <a href="https://github.com/juansicastillo/juansicastillo">
-    <img width="111px" 
-        alt="forks" 
-        title="Forks Repository" 
-        src="https://img.shields.io/github/forks/juansicastillo/juansicastillo?style=for-the-badge&logo=fork&color=000000&labelColor=FF1001&logoColor=white&label=Forks" /> 
-  </a>
-  
-  <!-- Followers - Este ya funciona bien -->
+  <!-- Followers - Funcional -->
   <a href="https://github.com/juansicastillo?tab=followers">
     <img width="150px" 
         alt="Followers" 
@@ -68,20 +60,14 @@ Mi objetivo profesional es seguir creciendo en el área de la seguridad ofensiva
   <strong>You can Click here</strong>
   </br>
 
-  <!-- Pinterest -->
-  <a href="https://br.pinterest.com/Glauedson_/" target="_blank">
-    <img width="130px" 
-          src="https://img.shields.io/badge/Pinterest-FF0000?style=for-the-badge&logo=Pinterest&logoColor=white" 
-          alt="Pinterest"
-          title="My Pinterest"/>
+  <!-- Instagram (reemplaza a Pinterest y LinkedIn) -->
+  <a href="https://www.instagram.com/juansicastillo/" target="_blank">
+    <img width="120px" 
+          src="https://img.shields.io/badge/Instagram-FF0000?style=for-the-badge&logo=instagram&logoColor=white" 
+          alt="Instagram"
+          title="My Instagram"/>
   </a>
-  <!-- Linkedin -->
-  <a href="https://www.linkedin.com/in/glauedson-carlos-89875b258/" target="_blank">
-    <img width="100px" 
-          src="https://img.shields.io/badge/Linkedin-FF0000?style=for-the-badge&logo=linkedin&logoColor=white" 
-          alt="Linkedin"
-          title="My Linkedin"/>
-  </a>
+  
   <!-- GMail  -->
   <a href="https://mail.google.com/mail/?view=cm&to=juansicastillo7@gmail.com" target="_blank">
     <img width="97px" 
