@@ -14,11 +14,12 @@
 
 <div align="center">
 
-  <a href="https://api.github-star-counter.workers.dev/user/juansicastillo">
+  <!-- Stars - CORREGIDO usando shields.io -->
+  <a href="https://github.com/juansicastillo" target="_blank">
     <img width="120px" 
         alt="Stars" 
         title="Stars Profile" 
-        src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=000000&labelColor=FF1001&logoColor=ffffff&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/juansicastillo" /> 
+        src="https://img.shields.io/github/stars/juansicastillo?style=for-the-badge&logo=star&color=000000&labelColor=FF1001&logoColor=ffffff&label=Stars" /> 
   </a>
   
   <!-- Botón Compartir Perfil en ROJO -->
@@ -29,11 +30,12 @@
         src="https://img.shields.io/badge/Compartir_Perfil-FF0000?style=for-the-badge&logo=share&logoColor=white&labelColor=FF0000&color=FF0000" /> 
   </a>
 
-  <a href="https://github.com/juansicastillo?tab=followers">
+  <!-- Followers - CORREGIDO usando shields.io -->
+  <a href="https://github.com/juansicastillo?tab=followers" target="_blank">
     <img width="150px" 
         alt="Followers" 
         title="Github Followers" 
-        src="https://custom-icon-badges.herokuapp.com/github/followers/juansicastillo?color=000000&labelColor=FF1001&style=for-the-badge&logo=person-add&label=Followers&logoColor=ffffff" />
+        src="https://img.shields.io/github/followers/juansicastillo?style=for-the-badge&logo=person-add&color=000000&labelColor=FF1001&logoColor=ffffff&label=Followers" />
   </a>
 </div>
 
