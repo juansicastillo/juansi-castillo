@@ -45,7 +45,7 @@
 
 <div align="justify">
 
-Soy Pentester y especialista en Ciberseguridad, con una sólida base en desarrollo de software y un enfoque práctico en la identificación y explotación controlada de vulnerabilidades para fortalecer la seguridad de sistemas y aplicaciones. Actualmente trabajo de manera independiente mientras continúo ampliando mis conocimientos y busco nuevas oportunidades dentro del sector tecnológico.
+Hola me llamo Juansi Soy Pentester y especialista en Ciberseguridad, con una sólida base en desarrollo de software y un enfoque práctico en la identificación y explotación controlada de vulnerabilidades para fortalecer la seguridad de sistemas y aplicaciones. Actualmente trabajo de manera independiente mientras continúo ampliando mis conocimientos y busco nuevas oportunidades dentro del sector tecnológico.
 
 Mi experiencia se centra en pruebas de penetración, análisis de vulnerabilidades y evaluación de seguridad en entornos web y redes. Me enfoco en comprender cómo piensa un atacante para anticipar riesgos y proponer soluciones efectivas que protejan la infraestructura y la información.
 
