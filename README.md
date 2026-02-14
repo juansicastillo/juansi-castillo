@@ -14,18 +14,23 @@
 
 <div align="center">
 
-  <a href="https://api.github-star-counter.workers.dev/user/juansicastillo">
+  <!-- Stars - Ahora usando shields.io -->
+  <a href="https://github.com/juansicastillo">
     <img width="120px" 
         alt="Stars" 
         title="Stars Profile" 
-        src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=000000&labelColor=FF1001&logoColor=ffffff&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/juansicastillo" /> 
+        src="https://img.shields.io/github/stars/juansicastillo?style=for-the-badge&logo=star&color=000000&labelColor=FF1001&logoColor=ffffff&label=Stars" /> 
   </a>
-  <a href="https://api.github-star-counter.workers.dev/user/juansicastillo">
+  
+  <!-- Forks - Ahora usando shields.io -->
+  <a href="https://github.com/juansicastillo/juansicastillo">
     <img width="111px" 
         alt="forks" 
         title="Forks Repository" 
-        src="https://custom-icon-badges.demolab.com/github/forks/juansicastillo/juansicastillo?color=000000&logo=fork&style=for-the-badge&logoColor=white&labelColor=FF1001" /> 
+        src="https://img.shields.io/github/forks/juansicastillo/juansicastillo?style=for-the-badge&logo=fork&color=000000&labelColor=FF1001&logoColor=white&label=Forks" /> 
   </a>
+  
+  <!-- Followers - Este ya funciona bien -->
   <a href="https://github.com/juansicastillo?tab=followers">
     <img width="150px" 
         alt="Followers" 
@@ -129,11 +134,3 @@ Mi objetivo profesional es seguir creciendo en el área de la seguridad ofensiva
     </td>
   </tr>
 </table>
-
-
-
-
-
-<!--
-<img src="https://steamcdn-a.akamaihd.net/steam/apps/1382330/extras/2-citynightmare.gif?t=1608034435">
--->
