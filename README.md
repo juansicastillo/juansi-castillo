@@ -20,12 +20,15 @@
         title="Stars Profile" 
         src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=000000&labelColor=FF1001&logoColor=ffffff&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/juansicastillo" /> 
   </a>
-  <a href="https://api.github-star-counter.workers.dev/user/juansicastillo">
-    <img width="111px" 
-        alt="forks" 
-        title="Forks Repository" 
-        src="https://custom-icon-badges.demolab.com/github/forks/juansicastillo/juansicastillo?color=000000&logo=fork&style=for-the-badge&logoColor=white&labelColor=FF1001" /> 
+  
+  <!-- Nuevo botón: Compartir Perfil -->
+  <a href="https://github.com/juansicastillo" target="_blank">
+    <img width="130px" 
+        alt="Compartir Perfil" 
+        title="Compartir mi perfil de GitHub" 
+        src="https://img.shields.io/badge/Compartir_Perfil-FF0000?style=for-the-badge&logo=share&logoColor=white&color=000000&labelColor=FF1001" /> 
   </a>
+
   <a href="https://github.com/juansicastillo?tab=followers">
     <img width="150px" 
         alt="Followers" 
@@ -63,8 +66,8 @@ Mi objetivo profesional es seguir creciendo en el área de la seguridad ofensiva
   <strong>You can Click here</strong>
   </br>
 
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/juansicastillo/" target="_blank">
+  <!-- Instagram (actualizado) -->
+  <a href="https://www.instagram.com/iam.juansi/" target="_blank">
     <img width="130px" 
           src="https://img.shields.io/badge/Instagram-FF0000?style=for-the-badge&logo=instagram&logoColor=white" 
           alt="Instagram"
